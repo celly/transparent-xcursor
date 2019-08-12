@@ -1,4 +1,4 @@
-# Transparent (hidden) cursor for X11 / Wayland
+# Transparent (hidden) cursor for Gnome / Wayland
 
 #### Why?
 
